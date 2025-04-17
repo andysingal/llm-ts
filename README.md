@@ -10,3 +10,5 @@
 
 ## Articles:
 [Running AI Models in the Browser with JavaScript and React](https://javascript.plainenglish.io/running-ai-models-in-the-browser-with-javascript-and-react-a-fun-guide-c06a9dd1e61b)
+
+[How to Build RAG AI Agents with TypeScript](https://www.freecodecamp.org/news/how-to-build-rag-ai-agents-with-typescript/)
