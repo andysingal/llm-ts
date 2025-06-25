@@ -5,3 +5,6 @@
 This guide shows you how to integrate Langfuse with VoltAgent for observability and tracing. By following these steps, you’ll be able to monitor and debug your VoltAgent agents in the Langfuse dashboard.
 
 What is VoltAgent? VoltAgent is an open-source TypeScript framework that acts as this essential toolkit. It simplifies the development of AI agent applications by providing modular building blocks, standardized patterns, and abstractions. Whether you’re creating chatbots, virtual assistants, automated workflows, or complex multi-agent systems, VoltAgent handles the underlying complexity, allowing you to focus on defining your agents’ capabilities and logic.
+
+[How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)
+You’ll use LangGraph nodes to build a branching flow that processes incoming messages and detects intent like chat, support, or tool usage. It’ll then route them to the right logic based on what the user says.
