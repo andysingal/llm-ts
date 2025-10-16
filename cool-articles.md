@@ -8,3 +8,6 @@ What is VoltAgent? VoltAgent is an open-source TypeScript framework that acts as
 
 [How to Build a LangGraph and Composio-Powered Discord Bot](https://www.freecodecamp.org/news/build-a-langgraph-composio-powered-discord-bot/)
 You’ll use LangGraph nodes to build a branching flow that processes incoming messages and detects intent like chat, support, or tool usage. It’ll then route them to the right logic based on what the user says.
+
+[Stop Parsing LLMs with Regex: Build Production-Ready AI Features with Schema-Enforced Outputs](https://dev.to/dthompsondev/llm-structured-json-building-production-ready-ai-features-with-schema-enforced-outputs-4j2j)
+
