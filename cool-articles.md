@@ -14,3 +14,4 @@ You’ll use LangGraph nodes to build a branching flow that processes incoming m
 
 [LlamaIndex Observability Operations: Tracing, Telemetry, and Visualization of Failure Cases](https://t-cr.jp/article/8s31jaj5fs8bvhk#google_vignette)
 
+<img width="303" height="462" alt="Screenshot 2025-11-22 at 5 36 06 PM" src="https://github.com/user-attachments/assets/d0afe09a-c129-46e3-8072-401374251e25" />
