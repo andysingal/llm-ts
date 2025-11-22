@@ -11,3 +11,6 @@ You’ll use LangGraph nodes to build a branching flow that processes incoming m
 
 [Stop Parsing LLMs with Regex: Build Production-Ready AI Features with Schema-Enforced Outputs](https://dev.to/dthompsondev/llm-structured-json-building-production-ready-ai-features-with-schema-enforced-outputs-4j2j)
 
+
+[LlamaIndex Observability Operations: Tracing, Telemetry, and Visualization of Failure Cases](https://t-cr.jp/article/8s31jaj5fs8bvhk#google_vignette)
+
